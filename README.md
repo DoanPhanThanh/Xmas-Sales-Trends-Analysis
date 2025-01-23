@@ -3,9 +3,14 @@
 ## Introduce
 The report provides an in-depth analysis of holiday sales data, examining key factors such as customer demographics, shopping behaviors, promotional effectiveness, and satisfaction levels. It aims to uncover trends, evaluate the success of promotional strategies, and identify the main drivers of customer satisfaction.
 
+## Certification:
+
+<img width="950" alt="Certification" src="https://github.com/DoanPhanThanh/Xmas-Sales-Trends-Analysis/blob/23c19fdea3896548032fcb2cbe8f3c6c28e9d760/Honorable%20Mention%20Phan%20Thanh%20Doan-1.png">
+
 ## Dashboard
 
-🔗 Explore the dashboard here: https://app.powerbi.com/view?r=eyJrIjoiZjgzMjFiY2YtMjZkNC00N2Q0LTgyZjUtZTNmZGUzYzg0MGVlIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9
+🔗 Explore the dashboard here: 
+https://app.powerbi.com/view?r=eyJrIjoiM2E3YzJjYTktYjZmMy00MDI3LTgxMzItOTMzNjYyNGNiZjI1IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9
 
 <img width="950" alt="Introduce" src="https://github.com/DoanPhanThanh/Xmas-Sales-Trends-Analysis/blob/a50501df65f02cdf161ab9dba5e95d26cafe8c51/Intro.png">
 <img width="950" alt="Overview" src="https://github.com/DoanPhanThanh/Xmas-Sales-Trends-Analysis/blob/a50501df65f02cdf161ab9dba5e95d26cafe8c51/Overview.png">
