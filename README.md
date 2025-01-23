@@ -9,7 +9,7 @@ The report provides an in-depth analysis of holiday sales data, examining key fa
 
 ## Dashboard
 
-🔗 Explore the dashboard here: htps://lnkd.in/gPb9NzwM
+🔗 Explore the dashboard here: https://lnkd.in/gPb9NzwM
 
 <img width="950" alt="Introduce" src="https://github.com/DoanPhanThanh/Xmas-Sales-Trends-Analysis/blob/a50501df65f02cdf161ab9dba5e95d26cafe8c51/Intro.png">
 <img width="950" alt="Overview" src="https://github.com/DoanPhanThanh/Xmas-Sales-Trends-Analysis/blob/a50501df65f02cdf161ab9dba5e95d26cafe8c51/Overview.png">
